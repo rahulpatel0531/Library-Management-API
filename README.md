@@ -32,7 +32,7 @@ This project demonstrates backend development concepts including:
 
 ###  Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/library-api.git
+git clone https://github.com/rahulpatel0531/Library-Management-API
 cd library-api
 
 ### Install Dependencies
